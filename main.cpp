@@ -5,7 +5,7 @@ int main()
 
 	printf("Hello Git World!!");
 
-	printf("PullRequestBranch Changed!!");
+	printf("master");
 
 	return 0;
 }
