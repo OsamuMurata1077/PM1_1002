@@ -5,7 +5,7 @@ int main()
 
 	printf("Hello Git World!!");
 
-	printf("masterをローカルで変更!");
+	printf("コンフリクトを解決しました！！");
 
 	return 0;
 }
