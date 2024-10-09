@@ -5,7 +5,7 @@ int main()
 
 	printf("Hello Git World!!");
 
-	printf("Hello Branch!!");
+	printf("Hello New Branch!!");
 
 	return 0;
 }
