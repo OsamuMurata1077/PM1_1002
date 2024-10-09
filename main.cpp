@@ -5,7 +5,7 @@ int main()
 
 	printf("Hello Git World!!");
 
-	printf("master");
+	printf("Pull");
 
 	return 0;
 }
