@@ -5,7 +5,7 @@ int main()
 
 	printf("Hello Git World!!");
 
-	printf("Hello Nes Branch!");
+	printf("�Ȃ񂩕ύX");
 
 	return 0;
 }
