@@ -5,7 +5,7 @@ int main()
 
 	printf("Hello Git World!!");
 
-	printf("�Ȃ񂩕ύX");
+	printf("PullRequest Branch Changed!!");
 
 	return 0;
 }
