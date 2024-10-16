@@ -5,7 +5,7 @@ int main()
 
 	printf("Hello Git World!!");
 
-	printf("コンフリクトを解決しました！！");
+	printf("Hello Nes Branch!");
 
 	return 0;
 }
